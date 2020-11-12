@@ -1,0 +1,22 @@
+body{
+background-color:skyblue;
+color:;
+
+}
+
+a{
+color: red;
+text-decoration:white;
+
+}
+
+a:hover{
+color:Black;
+background: :aqua;
+
+}
+.greenlink:hover{
+color: blue;
+background:white;
+}
+
